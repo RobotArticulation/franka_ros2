@@ -9,7 +9,7 @@
       <joint name="${arm_id}_joint1" value="0"/>
       <joint name="${arm_id}_joint2" value="${-pi/4}"/>
       <joint name="${arm_id}_joint3" value="0"/>
-      <joint name="${arm_id}_joint4" value="${-3*pi/4}"/>
+      <joint name="${arm_id}_joint4" value="0"/>
       <joint name="${arm_id}_joint5" value="0"/>
       <joint name="${arm_id}_joint6" value="${pi/2}"/>
       <joint name="${arm_id}_joint7" value="${pi/4}"/>
